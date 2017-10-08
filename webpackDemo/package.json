@@ -1,0 +1,21 @@
+{
+  "name": "webpackDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "mint-ui": "^2.2.9",
+    "moment": "^2.18.1",
+    "vue": "^2.4.3",
+    "vue-picture-preview": "0.0.1",
+    "webpack": "^3.5.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "webpack-dev-server --contentBase src  --hot --open"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
